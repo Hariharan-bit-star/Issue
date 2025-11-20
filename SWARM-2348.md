@@ -252,3 +252,5 @@ or tune parameters for a realistic scuba diver vs arcade swimmer feel.
 
       // Apply gravity effect
       Velocity += FVector(0, 0, -980.0f) * DeltaTime * 0.2f; // Reduced gravity for flight
+
+      
